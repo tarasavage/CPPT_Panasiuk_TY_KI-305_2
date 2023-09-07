@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI305.Panasiuk.Lab5","c":"CalcException","l":"CalcException()","u":"%3Cinit%3E()"},{"p":"KI305.Panasiuk.Lab5","c":"CalcException","l":"CalcException(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
