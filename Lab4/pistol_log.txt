@@ -1,0 +1,14 @@
+Super Soaker refilled with 250 units of water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker checked the pistol's status. It is not loaded.
+Super Soaker refilled with 500 units of water.
+Super Soaker refilled with 250 units of water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker sprayed water.
+Super Soaker checked the pistol's status. It is not loaded.
+Super Soaker refilled with 500 units of water.
