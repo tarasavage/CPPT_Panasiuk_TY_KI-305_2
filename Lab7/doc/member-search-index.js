@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI305.Panasiuk.Lab7","c":"Item","l":"getSize()"},{"p":"KI305.Panasiuk.Lab7","c":"Item","l":"print()"}];updateSearchResults();
